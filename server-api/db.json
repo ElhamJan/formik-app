@@ -1,0 +1,12 @@
+{
+  "users": [
+    {
+      "name": "Elhammmm",
+      "email": "eli@gmail.com",
+      "phoneNumber": "09151006565",
+      "password": "123",
+      "passConfirm": "123",
+      "gender": "1"
+    }
+  ]
+}
